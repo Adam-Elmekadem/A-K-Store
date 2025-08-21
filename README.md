@@ -1,6 +1,6 @@
-# AkKStore
+# A&K Store
 
-Welcome to **AkKStore** – your destination for luxury style & fashion!
+Welcome to **AkKStore** – your destination for luxury style!
 
 ## 🚀 Production Build
 
@@ -20,7 +20,7 @@ All assets, optimized code, and static files are ready for deployment.
 - Shopping cart and checkout
 - Admin dashboard with product management
 - About Us, Services, Team, and Location sections
-- Customers feedbacks
+- Customer feedback and statistics
 - Toast notifications and smooth navigation
 
 ## 📍 Location
@@ -30,19 +30,18 @@ Our store is located at:
 
 ## 👨‍💻 Team
 
-    github: "https://github.com/Adam-Elmekadem",
-- Adam – Frontend & UI/UX Designer ([GitHub](https://github.com/Adam-Elmekadem), [LinkedIn](https://www.linkedin.com/in/adam-elmekadem-9a638231a/))
-- Zakaria Herouach – Backend Developer ([GitHub](https://github.com/ZakariaHarouach), [LinkedIn](https://www.linkedin.com/in/zakaria-harouach-824b2335b/))
+- Adam Elmekadem – Frontend & UI/UX Designer ([GitHub](https://github.com/Adam-Elmekadem), [LinkedIn](https://www.linkedin.com/in/adam-elmekadem-9a638231a/))
+- SarZakaria Harouach – Backend Developer ([GitHub](https://github.com/ZakariaHarouach), [LinkedIn](https://www.linkedin.com/in/zakaria-harouach-824b2335b/))
 
 ## 📞 Contact
 
 1- Adam Elmekadem
-- Email: [adamelmekadem61@gmail.com](mailto:adamelmeadem61@gmail.com)
+- Email: [adadmelmakdem61@gmail.com](mailto:adadmelmakdem61@gmail.com)
 - Phone: +212 6 18 98 10 78
 
-2- Zakaria Herouach
-- Email: [hrwashzkarya@gmail.com](mailto:hrwashzkarya@gmail.com)
-- Phone: +212 6 04 46 56 58
+2- Zakaria Harouach
+- Email: [adadmelmakdem61@gmail.com](mailto:adadmelmakdem61@gmail.com)
+- Phone: +212 6 18 98 10 78
 
 ## 📝 License
 
@@ -50,4 +49,4 @@ This project is for demonstration and educational purposes.
 
 ---
 
-Thank you for using AKStore ans suporting us with stars!
+Thank you for using A&K Store!
