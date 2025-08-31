@@ -11,7 +11,7 @@ All assets, optimized code, and static files are ready for deployment.
 - Make sure your server is configured to serve `index.html` for all routes (for React Router support).  
 - Set up environment variables and API endpoints as needed.
 
-## 🛠 Features
+## 🛠 Features (MVP V1.1.0)
 - Modern responsive design  
 - Dynamic product catalog  
 - Shopping cart and checkout  
@@ -35,10 +35,23 @@ Our store is located at:
    - Phone: +212 6 18 98 10 78
 
 2. Zakaria Harouach  
-   - Email: adadmelmakdem61@gmail.com  
-   - Phone: +212 6 18 98 10 78
+   - Email: hrwashzkrya@gmail.com  
+   - Phone: +212 6 XX XX XX XX
 
 ## 📝 License
 This project is for demonstration and educational purposes.
 
-Thank you for using
+---
+
+## 🔄 Updates for V2.0.0
+
+- Adding new products details like (stock, images, Audiance..etc)
+- Enhanced product filtering by audience and category
+- Optimized image loading and performance
+- Advanced admin dashboard features
+- Better mobile responsiveness and accessibility
+- Refined toast notification system
+- API integration improvements
+- SEO Optimization
+
+Thank you
